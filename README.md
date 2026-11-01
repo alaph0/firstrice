@@ -23,7 +23,7 @@ this is my first rice, feel free to do whatever you want with it
 
 ## installation:
 Clone the repository:
-git clone https://github.com/alaph/dotfiles.git
+git clone https://github.com/alaph/dotfiles.git then
 cd dotfiles
 
 create symlinks for the configurations you want to use
