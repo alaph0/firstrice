@@ -2,9 +2,9 @@
 this is my first rice, feel free to do whatever you want with it
 
 ## screenshots:
-![desktop](screenshots/desktop.png)
+![desktop](dotfiles/screenshots/desktop.png)
 
-![fastfetch $ fetch](screenshots/screenshot.png)
+![fastfetch $ fetch](dotfiles/screenshots/screenshot.png)
 
 ## content:
 - bash
