@@ -4,8 +4,6 @@ this is my first rice, feel free to do whatever you want with it
 ## screenshots:
 ![desktop](dotfiles/screenshots/desktop.png)
 
-![fastfetch $ fetch](dotfiles/screenshots/screenshot.png)
-
 ## content:
 - bash
 - fastfetch
@@ -23,7 +21,7 @@ this is my first rice, feel free to do whatever you want with it
 
 ## installation:
 Clone the repository:
-git clone https://github.com/alaph/dotfiles.git then
+git clone https://github.com/alaph0/dotfiles.git then
 cd dotfiles
 
 create symlinks for the configurations you want to use
